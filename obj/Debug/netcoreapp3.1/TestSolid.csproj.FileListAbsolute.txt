@@ -1,0 +1,13 @@
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.exe
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.deps.json
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.runtimeconfig.json
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.runtimeconfig.dev.json
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.dll
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\bin\Debug\netcoreapp3.1\TestSolid.pdb
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.csprojAssemblyReference.cache
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.AssemblyInfoInputs.cache
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.AssemblyInfo.cs
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.csproj.CoreCompileInputs.cache
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.dll
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.pdb
+C:\Users\JODA\Documents\CSharpDemo\TestSolid\obj\Debug\netcoreapp3.1\TestSolid.genruntimeconfig.cache

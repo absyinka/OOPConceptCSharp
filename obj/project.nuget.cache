@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10E9CftF9/oszSlxSJvVevJnnQckh9FT59OkQEpngR9+qM9dC+mz/5e++kdIJrml4EPsV0NST1WMmuoL9QQnQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JODA\\Documents\\CSharpDemo\\TestSolid\\TestSolid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JODA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
