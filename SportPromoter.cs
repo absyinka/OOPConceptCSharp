@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace TestSolid
 {
@@ -9,7 +7,6 @@ namespace TestSolid
         public SportPromoter(string firstName, string lastName, string phone) : base(firstName, lastName, phone)
         {
         }
-
 
         public void Vlog()
         {

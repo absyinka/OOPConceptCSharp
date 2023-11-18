@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TestSolid
+﻿namespace TestSolid
 {
     public abstract class Writer : IVlogger
     {
@@ -23,7 +19,6 @@ namespace TestSolid
             FirstName = firstName;
             LastName = lastName;
         }
-
 
         public abstract void Write();
         

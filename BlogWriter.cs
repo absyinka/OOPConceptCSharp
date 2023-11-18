@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace TestSolid
 {
@@ -13,7 +11,6 @@ namespace TestSolid
         public override void Vlog()
         {
             Console.WriteLine("I am a Vlogger on youtube");
-
         }
 
         public override void Write()

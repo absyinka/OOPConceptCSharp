@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "10E9CftF9/oszSlxSJvVevJnnQckh9FT59OkQEpngR9+qM9dC+mz/5e++kdIJrml4EPsV0NST1WMmuoL9QQnQQ==",
+  "dgSpecHash": "Su+Wtqy0MR/E6kmGDujozIggwKa3F2DRWNcNqwR5DW9rcJ984JnkfXf7eKaivKmVN72582ZVziM8TA6CtUZVlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JODA\\Documents\\CSharpDemo\\TestSolid\\TestSolid.csproj",
+  "projectFilePath": "C:\\Users\\Abbas Joda\\Desktop\\MyCsharpProjects\\OOPConceptCSharp\\TestSolid.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JODA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\Abbas Joda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Abbas Joda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Abbas Joda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Abbas Joda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
